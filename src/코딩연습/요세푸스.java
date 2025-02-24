@@ -16,6 +16,7 @@ public class 요세푸스 {
 		List<Integer> arr =new ArrayList<>();
 		for(int i=0;i<N;i++){
 			arr.add(i+1);
+			System.out.println("aaa");
 
 		}
 		int index=0;
