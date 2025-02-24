@@ -18,6 +18,7 @@ public class 요세푸스 {
 			arr.add(i+1);
 			System.out.println("aaa");
 
+
 		}
 		int index=0;
 		int count =0;
